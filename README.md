@@ -20,8 +20,8 @@ width="60%">
 ### 리스트
 
 번호없는 목록:
- - [리스트1] 상대경로(https://github.com/Jangzoz/ddd/blob/main/PYH2021051216780005601_P4_20210512153216533.jpg)
- - [리스트2] 절대경로(./https://github.com/Jangzoz/ddd/blob/main/PYH2021051216780005601_P4_20210512153216533.jpg)
+ - [리스트1] 상대경로(secodfile.md)
+ - [리스트2] 절대경로(./secodfile.md)
      - 서브1
      - 서브2
  - 리스트2
