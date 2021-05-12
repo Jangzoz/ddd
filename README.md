@@ -55,7 +55,3 @@ width="60%">
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
-
-def foo():
-    if not bar:
-        return True
